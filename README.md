@@ -30,8 +30,8 @@ on heroku and the link for the same is : https://shielded-atoll-08483.herokuapp.
   <img src="https://user-images.githubusercontent.com/46518495/90487067-8d76d100-e157-11ea-81b9-d6f10e944b10.png">
   <h3><li>Phone</li></h3>
   <div align="center">
-    <img src="https://user-images.githubusercontent.com/46518495/90487491-2dccf580-e158-11ea-9d30-39bf87b491c6.jpg" height=560 width=300px>
-    <img src="https://user-images.githubusercontent.com/46518495/90487556-4210f280-e158-11ea-8fb5-4ab4dc179f54.jpg" height=560 width=300px>
+    <img src="https://user-images.githubusercontent.com/46518495/90927817-6815eb80-e413-11ea-9b50-a9958bd4c4f1.jpg" height=500 width=250px>
+    <img src="https://user-images.githubusercontent.com/46518495/90927825-6a784580-e413-11ea-9c63-0f14e4f9613a.jpg" height=500 width=250px>
   </div>
 <hr>
 <h2>Project Status</h2>
